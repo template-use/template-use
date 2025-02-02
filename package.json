@@ -1,6 +1,6 @@
 {
 	"name": "template-use",
-	"version": "0.0.2",
+	"version": "0.0.3",
 	"main": "bin/index.js",
 	"bin": {
 		"usetemplate": "./bin/index.js"
